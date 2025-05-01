@@ -1,3 +1,12 @@
+---
+name: user-story
+about: user-story.md
+title: ''
+labels: ''
+assignees: hungpbm
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
